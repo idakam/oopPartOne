@@ -21,7 +21,6 @@ public class Pet {
 		this.age = age;
 		this.location = location;
 		this.type = type;
-		
 	}
 	
 	//Getters
